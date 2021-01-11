@@ -76,7 +76,7 @@
         "webpack-dev-server": "^3.11.1"
     },
     "build": {
-        "appId": "2048-app",
+        "appId": "app-id",
         "mac": {
             "category": "public.app-category.video"
         },
